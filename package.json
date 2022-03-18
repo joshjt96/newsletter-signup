@@ -8,8 +8,5 @@
     "start": "node server.js"
   },
   "author": "Josh Talley",
-  "license": "ISC",
-  "dependencies": {
-    "request": "^2.88.2"
-  }
+  "license": "ISC"
 }
